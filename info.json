@@ -1,0 +1,40 @@
+{
+    "usuarios":{
+    "clientes leales":[
+            {
+            "id":1,
+            "nombre":"maria",
+            "apellido":"suarez",
+            "direccion":"13-call13",
+            "telefono":3124567892,
+            "edad":"30"
+
+        }
+
+        ],
+    "clientes regulares":[
+            {
+                "id":2,
+                "nombre":"pedro",
+                "apellido":"contreras",
+                "direccion":"18-call11",
+                "telefono":3178945267,
+                "edad":"26"
+        
+            }
+
+        ],
+    "clientes nuevos":[
+            {
+                "id":3,
+                "nombre":"luz",
+                "apellido":"perez",
+                "direccion":"19-call3",
+                "telefono":3174567328,
+                "edad":"25"
+        
+            }
+        ]
+    }
+    
+}
