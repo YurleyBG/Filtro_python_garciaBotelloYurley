@@ -16,7 +16,7 @@ Cuenta con un archivo python y un json.
 Gith Bash
 
 ~~~ 
-git clone  "link del repositorio"
+git clone  "link del repositorio" https://github.com/YurleyBG/Filtro_python_garciaBotelloYurley.git
 ~~~
 al hacer esto se descargará  los datos del repositorio. puedes usar visual studio code para correr cada uno de los códigos en la terminal.
 Recuerda tener instalado python en tu máquina local.
