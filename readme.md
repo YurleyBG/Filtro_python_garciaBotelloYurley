@@ -1,7 +1,7 @@
 
 # FILTRO PYTHON
  
-Cuenta con varios proyectos realizados en python.
+Cuenta con un archivo python y un json.
 
 ## Tabla De Contenido
 | Índice | Título |
@@ -28,4 +28,4 @@ Recuerda tener instalado python en tu máquina local.
 ## Estructura 
 ![alt text](pinctures/image.png)
 ## Crédito 
-Cada uno de estos proyectos fueron realizados por Yurley Botello.
+Este filtro fue desarrollado por Yurley Botello.
